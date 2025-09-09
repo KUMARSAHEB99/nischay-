@@ -5,8 +5,8 @@ import Music1 from './music/music1.mp3';
 import Music2 from './music/music2.mp3'
 import Music3 from './music/music3.mp3'
 
-import Img1 from './images/pic1.gif';
-import Img2 from './images/pic2.jpg';
+import Img1 from './images/saheb.jpeg';
+import Img2 from './images/both.jpeg';
 import Img3 from './images/pic3.jpg';
 
 import ScrollReveal from './components/ScrollReveal';
