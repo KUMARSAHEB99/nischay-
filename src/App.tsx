@@ -443,7 +443,7 @@ function App() {
   const playlist = useMemo(() => [
     { title: "Madno", info: "🤌", src: Music1 },
     { title: "Until I Found You", info: "💖", src: Music2 }, // <-- Updated
-    { title: "Undressed by Sombr", info: "from 2:06", src: Music3 }, // <-- Updated
+    { title: "Undressed by Sombr", info: "🤭", src: Music3 }, // <-- Updated
   ], []);
 
   // Move sticky notes memo here to avoid conditional hook call
