@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useCallback, useMemo, memo } from 'react';
 import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
 import { Heart, Music, X, Mail, Sparkles } from 'lucide-react';
-import Music1 from './music/music1.mp3';
-import Music2 from './music/music2.mp3'
+import Music1 from './music/music-1.mp3';
+import Music2 from './music/music-2.mp3'
 import Music3 from './music/music3.mp3'
 
 import Img1 from './images/saheb.jpeg';
