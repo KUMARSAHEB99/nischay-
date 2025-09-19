@@ -2,8 +2,8 @@
 
 export const textConfig = {
   greeting: {
-    name: "Savitri Mumma",
-    message: "I'll wait for you "
+    name: "Dear Zoiiiii",
+    message: "My Mostest Favouritest Person"
   },
   
   stickyNotes: [
@@ -20,13 +20,14 @@ export const textConfig = {
   letter: {
     title: "Read My Letter 💌",
     subtitle: "Click to hear my words",
-    recipient: "Dear Saumu",
+    recipient: "Dear Zoiiii",
     paragraphs: [
-      "Hm hmesha tmhare hi rhenge mera bacha aur tm meri mumma ho hm nai hai gussa ya hurt I'll wait for you ...",
-      "You know where to find me when you are ready to come back to me I'll be waiting for you because I am madly in love with you and I can't see my life without you so please come back to me soon",
-      "Hm ya tm kbhi kisi ke saath aise nai ho payenge jaise hm dono the hmara bachpana,hmara memories we were our first everything Hm bs give up nai krna chahate agr 0.0001% bhi chance ho kyuki I know youre the one and we'll never find this in anyone else",
+      "One year. 365 days. Countless memories and still, words fall short of what you mean to me. From the day our story began, you have become my strength, my calm, my laughter, my safe place, and my whole world.",
+      "Through ups and downs, we always found our way back, only growing stronger and more unshakable. With you, even the simplest moments feel magical. You are not just my girlfriend, you are my bestest friend, my home, my greatest blessing.",
+      "As we step into another year, I promise to keep choosing you, loving you, and reminding you every day of how beautiful you are, both inside and out. The future excites me, because with you, forever feels too short.",
+      "Happy Anniversary, meri kuchumuchuuu. I love you and will always love youu endlessly. ❤️",
     ],
-    signature: "Yours sincerely,\nBetu ya sirf Kumar"
+    signature: "Yours sincerely,\nDumbass"
   },
   
   game: {
@@ -38,32 +39,24 @@ export const textConfig = {
   
   panels: [
     {
-      text: "I know I've hurted you a lot and there is no forgiveness but I'll just pray to god that youll come back to me ab sb bhagwan ke haath me chordere hum I believe in him and my love ...",
-      caption: "I'll just wait for that time"
+      text: "The place where our story began… our most magical date yet, captured in the most perfect candid. I’d give the world just to relive that day with you again.",
+      caption: "I love you so much my kuchumuchuuu"
     },
     {
-      text: "Hm nai bolre saumu ki tm merepe trust kro ekdum nai",
-      caption: "Just watch my actions observe it and then decide agr nai hua kbhi toh hmlog aise hi shi Hm nai jayenge khi tmko chor kr nai chahiye koi aur dost bnkr rehlenge hope rkh kr us 0.001% chance me"
+      text: "Our first Valentine’s together will always be unforgettable.....from the laughter we shared to the little moments that made it so special. You finally wore your favorite ‘Kaleshi Aurat’ crop top that you had always wanted, and you looked absolutely perfect by my side.",
+      caption: "I'll pray to god that we get to celebrate many more valentines together ❤️"
     },
     {
       text: "This is us btw",
-      caption: "Come back soon!!!"
+      caption: "I Love You again and again and again"
     },
     
   ],
   
   poem: {
-    title: "Savitri✨",
+    title: "Zoiii✨",
     lines: [
-      "Hm jante hai hm ekdum past ko change nai kr skte,",
-      "Tmko jitna hurt kiye tmhare man me void krdiye,",
-      "Tm bs thik hojao tmko bht aage jaana hai,",
-      "I'll just pray ki tm wapas aa jao mere paas,",
-      "",
-      "tmko promise nai actionse se dikhega hm kitne change hue,",
-      "future me kuch bhi ho I'll always love you and wait for you,",
-      "I hope you succeed in life and shine bright I'll always be there for you and clap for you,",
-      "Agr tmko mere se acha koi milta hai toh I'll be the happiest person on earth bht rote rote yeh likhre you know na its my biggest nightmare lekin I want you to be happy",
+      "How much I miss youu every single moment, it’s almost impossible to put into words. Every little thing reminds me of you, and all I can think about is the future we will build together. I picture us living under the same roof, falling asleep in each other’s arms every night and waking up to each other's smile every morning. I see us sharing not just days and nights, but every single memory, every laugh, every tear, and every little moment life brings our way. That’s the dream I hold closest to my heart, a life where it’s always you and me, together in everything.",
     ]
   },
   

@@ -1,13 +1,14 @@
 import React, { useState, useEffect, useCallback, useMemo, memo } from 'react';
 import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
 import { Heart, Music, X, Mail, Sparkles } from 'lucide-react';
-import Music1 from './music/music-1.mp3';
-import Music2 from './music/music-2.mp3'
-import Music3 from './music/music3.mp3'
+import Music1 from './music/photograph.mp3';
+import Music2 from './music/daylight.mp3';
+import Music3 from './music/callitwhen.mp3';
 
-import Img1 from './images/saheb.jpeg';
-import Img2 from './images/both.jpeg';
+import Img1 from './images/nischay2.jpeg';
+import Img2 from './images/nischay1.jpeg';
 import Img3 from './images/pic3.jpg';
+
 
 import ScrollReveal from './components/ScrollReveal';
 import HeartCatcherGame from './components/HeartCatcherGame';
@@ -441,9 +442,9 @@ function App() {
 
   // Memoized playlist data
   const playlist = useMemo(() => [
-    { title: "Madno", info: "🤌", src: Music1 },
-    { title: "Until I Found You", info: "💖", src: Music2 }, // <-- Updated
-    { title: "Undressed by Sombr", info: "🤭", src: Music3 }, // <-- Updated
+    { title: "Photograph", info: "🤌", src: Music1 },
+    { title: "Daylight", info: "💖", src: Music2 }, // <-- Updated
+    { title: "Call It What You Want", info: "🤭", src: Music3 }, // <-- Updated
   ], []);
 
   // Move sticky notes memo here to avoid conditional hook call
